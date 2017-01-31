@@ -17,10 +17,14 @@ Un tpv debe permitirte ciertas operaciones que necesitan la flexibilidad del dis
 
 ## 2- Un tpv de segunda mano debe ser Escalable
 A un tpv hay que exigirle que nos saque el negocio adelante, y por mucho que sea de segunda mano debe hacerlo. Y debemos exigirle que sea flexible. Y por flexible me refiero a que te permita vender más en más sitios sin que tengas que volver a cambiar el programa tpv. Es esencial que pienses en que no debes volver a cambiar el sistema si te va bien, invirtiendo mucho dinero en la compra de un nuevos tpv, y tambien invirtiendo en el tiempo que te costará adaptarte a un nuevo programa de gestión. No puede ser que si por ejemplo montas una segunda tienda, esta tenga un sistema de gestión totalmente direferente al de la primera. Sería el caos y lo más seguro es que acabe con tu tiempo y tu negocio en un tiempo record.Has de reconocer que la inmensa mayoría de tpvs de segunda mano no permiten esto, pero si aun así quieres una usada, aplica estos criterios:
--jj
+- Debes tener conocimiento de que la empresa que ha desarrollado el software aun está en activo y si sigue dando soporte a esa versión. Si no es así, descárta ese tpv al instante.
+- Averigua si es compatible con un sistema operativo moderno. Si es menor de windows 7 olvídate. Esto una gran desventaja respecto a los tpv que funcionan en la nube, pero si siguies queriendo un tpv de segunda mano, esto es lo hay.
+- Si el tpv no dispone de un sistema de envío de bases de datos que reuna varias cajas registradoras en una sola base de datos, yo simplemente no lo compraba.
 
 ## 3- Un tpv de segunda mano debe ser Compatible
+Para funcionar en condiciones un tpv necesita ser compatible con impresoras de tickets, escanner de códigos de barras, impresoras de etiquetas etc.. Es por esto que debes fijarte muy bien antesd ecomprar un tpv con unos años encima. Actualmente no se fabrican impresoras de tickets que sean compatibles con sistemas operativos mas atiguos que windows 7. Si es un tpv que funciona en linux, ten en cuenta que la falta de drivers en este sistema operativo son bastante notables. Si es un tpv con mac, acuérdate de que se fabrican muy pocas impresoras de tickets y que suelen costar mucho dinero.
 
 ## 4- Un tpv de segunda mano debe ser Barato
+Aquí entramos en un dilema bastante importante. Los tpv de segunda mano baratos suelen ser extremadamente ineficientes y llenos de errores que te harán la vida imposible. Los tpv de segunda mano un poco mas caros tienen quizás mejor soporte, pero la inversión la mayoría de veces no vale la pena porqur por ese precio se puede acceder a software de última generación. Muy pocos tpv de segunda mano buenos son baratos, y el problema es que no podrás probarlos a fondo hasta que los adquieras, así que ten mucho ojo antes de adquirir uno porque en vez de barato puede serel clavo en el ataud de tu tienda.
 
 ## 5- Un tpv de segunda mano debe ser Seguro
