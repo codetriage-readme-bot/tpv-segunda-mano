@@ -16,9 +16,8 @@ Un tpv debe permitirte ciertas operaciones que necesitan la flexibilidad del dis
 
 
 ## 2- Un tpv de segunda mano debe ser Escalable
-A un tpv hay que exigirle que nos saque el negocio adelante, y por mucho que sea de segunda mano debe hacerlo. Y debemos exigirle que sea flexible. Y por flexible me refiero a que te permita vender más en más sitios sin que tengas que volver a cambiar el programa tpv. Es esencial que pienses en que no debes volver a cambiar el sistema si te va bien, invirtiendo mucho dinero en la compra de un nuevos tpv, y tambien invirtiendo en el tiempo que te costará adaptarte a un nuevo programa de gestión. No puede ser que si por ejemplo montas una segunda tienda, esta tenga un sistema de gestión totalmente direferente al de la primera. Sería el caos y lo más seguro es que acabe con tu tiempo y tu negocio en un tiempo record.
-Has de reconocer que la inmensa mayoría de tpvs de segunda mano no permiten esto, pero si aun así quieres una usada, aplica estos criterios:
--
+A un tpv hay que exigirle que nos saque el negocio adelante, y por mucho que sea de segunda mano debe hacerlo. Y debemos exigirle que sea flexible. Y por flexible me refiero a que te permita vender más en más sitios sin que tengas que volver a cambiar el programa tpv. Es esencial que pienses en que no debes volver a cambiar el sistema si te va bien, invirtiendo mucho dinero en la compra de un nuevos tpv, y tambien invirtiendo en el tiempo que te costará adaptarte a un nuevo programa de gestión. No puede ser que si por ejemplo montas una segunda tienda, esta tenga un sistema de gestión totalmente direferente al de la primera. Sería el caos y lo más seguro es que acabe con tu tiempo y tu negocio en un tiempo record.Has de reconocer que la inmensa mayoría de tpvs de segunda mano no permiten esto, pero si aun así quieres una usada, aplica estos criterios:
+-jj
 
 ## 3- Un tpv de segunda mano debe ser Compatible
 
